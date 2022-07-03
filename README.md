@@ -2,7 +2,7 @@
 
 - A clone of Airbnb experience website.
 
-<img src='/public/gif/giff.gif'>
+<img src='/public/airbnb.png'>
 
 ## Tech used
 
@@ -10,4 +10,5 @@
 - CSS
 
 ## Lesson learned
+
 - How to dynamically render components.
